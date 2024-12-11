@@ -1,0 +1,12 @@
+PyWavelets
+opencv-python
+seaborn
+Flask
+ipykernel
+plotly
+selenium
+bs4
+chromedriver-binary
+numpy
+pandas
+matplotlib
