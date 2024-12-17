@@ -6,7 +6,6 @@ model/dataset/satoru_gojo
 model/dataset/serena_williams
 model/dataset/sunil_chhetri
 
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
